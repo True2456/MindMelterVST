@@ -1,8 +1,7 @@
 # MindMelterVST
-Distortion VST
+Distortion VST created using the JUCE DSP framework for C++
 
 # Mind Melter VST
-## Audio distortion + Reverb unit created using the JUCE framework for C++
 
 ## Note: 
 Juce framework is required to use the source code.
